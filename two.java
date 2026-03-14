@@ -1,4 +1,4 @@
-class two
+class three
 {
 	public static void main (String[] args)
 	{
